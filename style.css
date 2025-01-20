@@ -448,7 +448,7 @@ h3 span{
 }
 @media (max-width:617px){
     .home-img img{
-        width: 70vw;
+        width: 60vw;
         margin-top: 8rem;
     }
     .about-img img{
@@ -459,6 +459,9 @@ h3 span{
 @media (max-width:617px){
     html{
         font-size: 50%;
+    }
+    .footer{
+        padding: 6rem 5%;
     }
 }
 
