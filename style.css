@@ -299,8 +299,7 @@ h3 span{
 #contact{
     display: flex;
     gap: 2rem;
-    justify-content: center;
-    align-items: center;
+   
 }
 
 .con-heading{
