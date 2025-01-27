@@ -18,7 +18,9 @@ body{
 }
 section{
     min-height: 100vh;
-    padding: 10rem 9% 2rem;
+    padding: 5rem 9%;
+    margin-bottom: 3rem;
+    scroll-margin-top: 100px;
 }
 
 /* Header Section */
@@ -85,6 +87,7 @@ section{
 
 .home{
     display: flex;
+    gap: 2rem;
     justify-content: center;
     align-items: center;
 }
@@ -179,6 +182,7 @@ section{
 /* About section */
 #about{
     display: flex;
+    gap: 2rem;
     align-items: center;
     justify-content: center;
     gap: 2rem;
