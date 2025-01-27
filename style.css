@@ -85,7 +85,7 @@ section{
 
 /* Home section */
 
-.home{
+#home{
     display: flex;
     gap: 2rem;
     justify-content: center;
@@ -182,7 +182,6 @@ section{
 /* About section */
 #about{
     display: flex;
-    
     align-items: center;
     justify-content: center;
     gap: 2rem;
@@ -296,6 +295,13 @@ h3 span{
 
 
 /* Contact Section */
+
+#contact{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
 
 .con-heading{
     font-size: 6rem;
