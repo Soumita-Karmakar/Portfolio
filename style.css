@@ -182,7 +182,7 @@ section{
 /* About section */
 #about{
     display: flex;
-    gap: 2rem;
+    
     align-items: center;
     justify-content: center;
     gap: 2rem;
