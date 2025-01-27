@@ -296,11 +296,6 @@ h3 span{
 
 /* Contact Section */
 
-#contact{
-    display: flex;
-    gap: 2rem;
-   
-}
 
 .con-heading{
     font-size: 6rem;
