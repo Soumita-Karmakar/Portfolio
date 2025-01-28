@@ -314,7 +314,7 @@ h3 span{
 
 
 /* Contact Section */
-#contact {
+.contact {
     background: linear-gradient(to bottom,white, #c4b26cce);
     margin-bottom: 0;
 }
