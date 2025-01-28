@@ -22,6 +22,11 @@ const typed = new Typed(".typedText", {
   loop: true,
 });
 
+
+document.getElementById('contactForm').addEventListener('submit', function (event) {
+  event.preventDefault(); 
+  sendEmail(); 
+});
 // Send Email Function
 function validateInputs() {
   const name = document.getElementById("name").value.trim();
