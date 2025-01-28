@@ -368,6 +368,7 @@ h3 span{
     background:hwb(338 11% 36%);
     border-radius: 20px;
     color:#d5fdf9;
+    cursor: pointer;
     transition: all ease 0.4s;
 }
 .form-button>.btn:hover{
